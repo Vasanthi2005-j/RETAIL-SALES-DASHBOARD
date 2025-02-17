@@ -20,11 +20,15 @@ This project contains a Retail Sales Dashboard created using Power BI. The dashb
 ⦁ RETAIL SALES DASHBOARD.pbix: Power BI file containing the dashboard with all necessary datasets, visualizations, and reports.
 
 #**Requirements**
+
+
 ⦁ To view or modify this dashboard, ensure you have:
 
 ⦁ Microsoft Power BI Desktop (Download: Power BI)
 
 #**How to Use**
+
+
 Clone the repository:
 ⦁ git clone https://github.com/yourusername/retail-sales-dashboard.git
 ⦁ Open RETAIL SALES DASHBOARD.pbix in Power BI Desktop.
