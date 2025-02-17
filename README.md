@@ -30,9 +30,11 @@ This project contains a Retail Sales Dashboard created using Power BI. The dashb
 
 
 Clone the repository:
+
 ⦁ git clone https://github.com/yourusername/retail-sales-dashboard.git
 ⦁ Open RETAIL SALES DASHBOARD.pbix in Power BI Desktop.
 ⦁ Customize and explore the visualizations.
 
 #**Contribution**
+
 ⦁ Feel free to contribute by improving the dashboard, adding new features, or optimizing data visualizations. Fork the repository and create a pull request with your changes.
